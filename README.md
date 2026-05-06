@@ -15,7 +15,7 @@ I come from a creative background in tattooing and design, which influences my a
 Currently seeking opportunities as a Frontend Developer or Software Engineer where I can contribute to building high-quality, scalable web applications.
 
 * 🌍  I'm based in Honolulu,Hawaii
-* ✉️  You can contact me at [i.p.mcknz33@gmail.com](mailto:i.p.mcknz33@gmail.com)
+* ✉️  You can contact me at [imdevventures@gmail.com](mailto:imdevventures@gmail.com)
 * 🧠  I'm currently learning Improving full-stack architecture, API design, and scalable frontend patterns.
 * 👥  I'm looking to collaborate on Frontend and full-stack projects focused on modern UI/UX, React/Next.js applications, and API-driven web platforms.
 * 💬  Ask me about Focused on building clean, scalable, and production-ready applications. Open to frontend and software engineering opportunities.
