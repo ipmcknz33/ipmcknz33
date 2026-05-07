@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Isaac Mackenzie
 ========================================================================================================================================
 
-Software Developer
+Frontend Developer
 ------------------
 
 I’m a Frontend Developer and Software Engineer focused on building clean, responsive, and user-centered web applications.
